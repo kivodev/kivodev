@@ -12,7 +12,7 @@ I build modern websites and interfaces using:
 ## 🎮 Roblox Development  
 I’m a Roblox developer experienced in:
 - **Lua** scripting and the **Roblox API**
-- Building engaging game systems and mechanics
+- Building engaging game systems and mechanics with GUI
 
 ## 🧱 3D Environment Art  
 I design 3D worlds and assets with a focus on detail and atmosphere:
@@ -25,23 +25,24 @@ I design 3D worlds and assets with a focus on detail and atmosphere:
 
 ### 💻 Programming
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,lua" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,lua",mysql,mongodb, />
 </p>
 
 ### 🧰 Dev Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github" />
+  <img src="https://skillicons.dev/icons?i=robloxstudio,vscode,git,github,npm" />
 </p>
 
 ### 🎨 3D & Design
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,unity,ps" />
+  <img src="https://skillicons.dev/icons?i=blender,ps" />
 </p>
 
 ---
 
 ## 📫 Contact  
-Want to collab or chat? Reach out on Discord: `kivo.dev`
+Want to collab or chat? Reach out on Discord: `kivo.dev` </br>
+Portfolio Coming Soon! 👀
 
 ---
 
