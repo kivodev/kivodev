@@ -1,6 +1,6 @@
-# 👋 Hey, I'm Kivo
+# 👋 Hey, I'm Zayd
 
-I'm a creative developer blending **code and design**. Whether it's crafting interactive web apps, scripting immersive Roblox games, or building stunning 3D environments — I do it all with style and precision.
+I'm a creative developer blending **code and design**. Whether it's crafting interactive web apps, scripting immersive Roblox games or FiveM scripts, or building stunning 3D structued interiors — I do it all with style and precision.
 
 ---
 
@@ -18,6 +18,7 @@ I’m a Roblox developer experienced in:
 I design 3D worlds and assets with a focus on detail and atmosphere:
 - Low-poly to high-detail modeling
 - Game-ready optimization
+- FiveM Interiors
 
 ---
 
