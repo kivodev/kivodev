@@ -2,6 +2,8 @@
 
 I'm a creative developer blending **code and design**. Whether it's crafting interactive web apps, scripting immersive Roblox games or FiveM scripts, or building stunning 3D structued interiors — I do it all with style and precision.
 
+React Developer  |  3D Enviorment Artist  |  Lua Developer
+
 ---
 
 ## 💻 Web Development  
@@ -22,27 +24,23 @@ I design 3D worlds and assets with a focus on detail and atmosphere:
 
 ---
 
-## 🛠️ Tools & Tech
+## 🧰 Tech Stack
 
 ### 💻 Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,react,lua",mysql,mongodb, />
-</p>
+## Languages
+Javascript | HTML/CSS | SCSS | Lua | SQL
 
+## Frameworks
+ReactJs | NodeJs | MySQL | MongoDB | RobloxAPI | Socket.IO | (P)NPM
 ### 🧰 Dev Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=robloxstudio,vscode,git,github,npm" />
-</p>
 
 ### 🎨 3D & Design
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=blender,ps" />
-</p>
+Blender | Substance Painter 3D | Photoshop | 
 
 ---
 
 ## 📫 Contact  
-Want to collab or chat? Reach out on Discord: `kivo.dev` </br>
+Want to collab or chat? Reach out on Discord: `mightbezak` </br>
 Portfolio Coming Soon! 👀
 
 ---
