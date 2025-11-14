@@ -27,14 +27,13 @@ I design 3D worlds and assets with a focus on detail and atmosphere:
 ## 🧰 Tech Stack
 
 ### 💻 Programming
-## Languages
+# Languages
 Javascript | HTML/CSS | SCSS | Lua | SQL
 
-## Frameworks
+# Frameworks
 ReactJs | NodeJs | MySQL | MongoDB | RobloxAPI | Socket.IO | (P)NPM
-### 🧰 Dev Tools
 
-### 🎨 3D & Design
+## 🎨 3D & Design
 Blender | Substance Painter 3D | Photoshop | 
 
 ---
